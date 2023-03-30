@@ -1,4 +1,4 @@
-This is my first project within Odin Project, in it I prove my skills with HTML and prove to my self that I can make with it 
+This is my first project within Odin Project, with it I prove my skills with HTML and prove to my self that I can make with it 
 
 What skills I'm talking about? 
 
